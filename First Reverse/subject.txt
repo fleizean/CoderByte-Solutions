@@ -1,0 +1,16 @@
+Assignment name  : first_reverse
+Expected files   : first_reverse.c
+Allowed functions: all
+--------------------------------------------------------------------------------
+
+Have the function FirstReverse(str) take the str parameter being 
+passed and return the string in reversed order. For example : if 
+the input string is "Hello World and Coders" then your program 
+should return the string "sredoC dna dlroW olleH".
+
+Example:
+
+$> Input: "coderbyte"
+etybredoc$
+$> Input: "I Love Code"
+edoC evoL I$
